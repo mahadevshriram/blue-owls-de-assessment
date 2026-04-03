@@ -1,0 +1,12 @@
+2026-04-03 15:02:42.434992 - orders failed: name 'load_manifest' is not defined
+2026-04-03 15:02:42.453995 - order_items failed: name 'load_manifest' is not defined
+2026-04-03 15:02:42.467835 - customers failed: name 'load_manifest' is not defined
+2026-04-03 15:02:42.480495 - products failed: name 'load_manifest' is not defined
+2026-04-03 15:02:42.492823 - sellers failed: name 'load_manifest' is not defined
+2026-04-03 15:02:42.504167 - payments failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.736629 - orders failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.824755 - order_items failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.838520 - customers failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.850123 - products failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.861978 - sellers failed: name 'load_manifest' is not defined
+2026-04-03 15:06:52.875966 - payments failed: name 'load_manifest' is not defined
