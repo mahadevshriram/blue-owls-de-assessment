@@ -92,17 +92,12 @@ Ensures **pipeline reliability** without overloading the API.
   * ✅ Rich analytical insights
   * ❌ Higher compute cost
 
-#### 3. Filtering Thresholds
+#### 3. Checking outcomes
 
 * Used:
 
   * `transactions >= 10` (Query 1)
   * `orders >= 20` (Query 2)
-* Trade-off:
-
-  * ✅ Removes noise
-  * ❌ May exclude small but important entities
-
 ---
 
 ## 4. Production Deployment (Azure / Microsoft Fabric)
